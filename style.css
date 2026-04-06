@@ -1,0 +1,72 @@
+html, body {
+		background-color: lightyellow;
+		font-family: "Playfair Display", serif;
+			}
+
+		h1 {
+ 		 	color: navy;
+	 		 text-align: center;
+	 		 padding: 20px;
+	 		 letter-spacing: 2px;
+	 		 font-size: 4rem;
+		}
+		.section{
+		width: 70%;
+		margin: 20px auto;
+		padding: 10px;
+		border: 2px solid navy;
+									}
+
+	#mainNav {
+ 		 background-color: navy;
+ 		 padding-top: 15px;
+ 		 padding-bottom: 15px;
+	}
+
+	#mainNav .nav-link {
+	  color: white;
+	  font-size: 1.2rem;
+	  padding-left: 15px;
+	  padding-right: 15px;
+}
+
+		.section h2{
+			text-align: center;
+		}
+		h2 {
+			color: navy;
+			text-align: center;
+		}
+		h3 {
+			color:navy;
+		}
+	input[type="submit"]{
+    	background-color: navy;
+    	color: white;
+  		display: block;
+   		margin: 10px auto;
+		}
+	.button{
+		background-color: navy;
+    	color: white;
+  		display: block;
+   		margin: 10px auto;
+   		padding: 6px 12px;
+   		width: fit-content;
+   		text-align: center;
+	}
+
+	img{ display:block;
+		margin: auto;
+		width: 50%;
+
+	}
+	.progress-bar {
+  background-color: navy;
+}
+
+.btn-primary {
+  background-color: navy;
+  border-color: navy;
+}
+
